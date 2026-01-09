@@ -1,3 +1,6 @@
+# Brief Information:
+A simple RAG system AI assistant with a simple Streamlit user interface. The backend is connected to the UI through an API that is protected. The system generates an api key and requires it to work, having a limiter to control usage. 
+
 ### Architecture Diagram
 
      ai-backend-assessment-husseinAlshargi
