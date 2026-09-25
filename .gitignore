@@ -1,2 +1,8 @@
 .env
 venv/
+__pycache__/
+*.pyc
+.vscode/
+*.log
+generated_reports/*.docx
+training_data/*_2025*
