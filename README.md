@@ -3,7 +3,7 @@ A simple RAG system AI assistant with a simple Streamlit user interface. The bac
 
 ### Architecture Diagram
 
-     ai-backend-assessment-husseinAlshargi
+     RAG-AI-Assistant-Webapp
     ├── .env
     ├── .gitignore
     ├── DELIVERABLES_CHECKLIST.md
